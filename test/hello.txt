@@ -2,4 +2,4 @@ Hello Arduino!
 
 This message is coming from 'http://lempel.github.io/test/hello.txt'.
 
-If you can see this message, your Arduino with Ethernet Shild is working properly.
+If you can see this message, your Arduino with Ethernet Shield is working properly.
